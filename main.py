@@ -144,7 +144,6 @@ email_label.grid(row=2, column=0)
 email_label.configure(padx=10, pady=10)
 
 email_entry = CTkEntry(master=root, width=350)
-email_entry.insert(0, "a.fouladizadeh@gmail.com")
 email_entry.grid(row=2, column=1, columnspan=2)
 
 password_label = CTkLabel(master=root, text="Password:", font=(FONT_NAME, 13))
