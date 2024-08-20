@@ -30,19 +30,13 @@ PassKeep is a simple and secure password manager built using Python's Tkinter li
     cd passkeep
     ```
 
-3. **Install the required packages:**
-
-    ```bash
-    pip install customtkinter pyperclip
-    ```
-
-4. **Install requirements:**
+3. **Install requirements:**
 
     ```bash
     pip install -r requirements.txt
     ```
     
-5. **Run the application:**
+4. **Run the application:**
 
     ```bash
     python main.py
