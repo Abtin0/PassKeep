@@ -59,12 +59,7 @@ PassKeep is a simple and secure password manager built using Python's Tkinter li
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Any improvements or bug fixes are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [a.fouladizadeh@gmail.com](mailto:a.fouladizadeh@gmail.com).
 
-Happy coding!
