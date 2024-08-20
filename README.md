@@ -27,7 +27,7 @@ PassKeep is a simple and secure password manager built using Python's Tkinter li
 2. **Navigate to the project directory:**
 
     ```bash
-    cd passkeep
+    cd PassKeep
     ```
 
 3. **Install requirements:**
