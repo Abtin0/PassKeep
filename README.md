@@ -1,6 +1,6 @@
 # PassKeep
 
-PassKeep is a simple and secure password manager built using Python's Tkinter library and the CustomTkinter extension. It allows you to generate strong passwords, save them along with associated website details, and retrieve stored passwords.
+PassKeep is a simple and secure password manager built using the Tkinter and the CustomTkinter libraries. It allows you to generate strong passwords, save them along with associated website details, and retrieve stored passwords.
 
 ## Features
 
@@ -13,8 +13,8 @@ PassKeep is a simple and secure password manager built using Python's Tkinter li
 
 - Python 3.x
 - `customtkinter`
-- `pyperclip`
 - `CTkMessagebox`
+- `pyperclip`
 
 ## Installation
 
